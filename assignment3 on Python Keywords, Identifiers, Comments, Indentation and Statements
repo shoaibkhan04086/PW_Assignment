@@ -1,0 +1,82 @@
+Q1.Explain the significance of Python keywords and provide examples of five keywords.
+Ans:Python keywords are special reserved words that have specific meanings and purposes and can't be used for anything and at place of variable but for specific purposes.
+example:-
+1.print()
+2.if()
+3.else()
+4.True
+5.import
+
+Q2.Descri0e the rules for defining identifiers in Python and provide an example.
+
+Ans:In Python, identifiers are names given to various program elements such as example-variables are  functions, classes, modules, etc. Here are the rules for defining identifiers in Python.
+Rule are :-
+1.Case Sensitivity
+2.Valid Characters
+3.Reserved Words
+4.Length Limitation
+
+Q3.What are comments in Python, and why are they useful6 Provide an example.
+Ans: In Python, comments are annotations in the source code that are ignored by the interpreter. They are used for adding explanatory notes to the code to make it more readable and understandable.
+example:-
+a = 10
+b= 1
+c = a+b  #here we can comment that in c variable we can store addition of a and b.
+
+
+
+Q4.Why is proper indentation important in Python?
+Ans:Proper indentation is crucial in Python because it is used to indicate the structure and scope of the code blocks. Unlike many other programming languages that use curly braces or keywords to define blocks of code.
+
+*Here are the key reasons why proper indentation is important in Python are:-
+
+1.Readability.
+2.Code Blocks.
+3.Consistency.
+
+Q5.What happens if indentation is incorrect in Python?
+Ans:In Python, indentation is not just a matter of style; it is a critical part of the syntax. Incorrect indentation can lead to various issues, including syntax errors and logical errors. 
+
+*Here are the consequences of incorrect indentation in Python are:-
+1.Syntax Errors
+2.Incorrect Code Structure
+3.Logical Errors
+4.Inconsistent Code
+
+Q6.Differentiate 0etween expression and statement in Python with examples.
+Ans:
+Statement:A statement, on the other hand, is a complete line of code that performs an action. Statements are executed by the Python interpreter to produce a result. Examples include assignment statements, conditional statements, loops, function definitions, and more.
+
+example:-
+x = 10
+if x > 5:
+    print("x is greater than 5")  
+else:
+    print("x is not greater than 5")
+    
+Expression:An expression is a piece of code that produces a value when evaluated. It can consist of variables, literals, operators, and function calls. Expressions are often used to perform calculations or to represent data.    
+
+example:-
+result = 3 + 5 * 2
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
